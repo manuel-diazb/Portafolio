@@ -14,6 +14,6 @@ Bienvenido a mi portafolio de proyectos. Aquí encontrarás ejemplos de mi traba
 
 ## 📂 Proyectos
 
-### Proyecto 1: [Ver Proyecto](AppSheet/)
+### Proyecto 1: [Vistas de la aplicación para Sumaq Alpaca](AppSheet/)
 
 
