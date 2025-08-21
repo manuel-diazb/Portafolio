@@ -12,8 +12,19 @@ Bienvenido a mi portafolio de proyectos. Aquí encontrarás ejemplos de mi traba
 
 ---
 
-## 📂 Proyectos
+## 📂 Proyectos profesionales
 
 ### Proyecto 1: [Vistas de la aplicación para Sumaq Alpaca](AppSheet/)
+
+
+## 🤝 Proyectos Colaborativos
+
+### [1. Caso de Negocio - EuroCars SA](https://github.com/Grupo3Pucp/ProyectoGP3/tree/main)
+- **Descripción:** Proyecto 1 Diplomado Business Analytics.
+- **Rol personal:** Creación del modelo de datos y su código en SQL.
+- **Tecnologías:** SQL, PowerBI y Power Query.
+
+## 🛠️ Proyectos personales
+
 
 
