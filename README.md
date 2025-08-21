@@ -14,5 +14,3 @@ Bienvenido a mi portafolio de proyectos. Aquí encontrarás ejemplos de mi traba
 
 ## 📂 Proyectos
 
-### 1. 
-![Vista previa del Proyecto 1](Captura de pantalla 2025-08-21 114410.png)
