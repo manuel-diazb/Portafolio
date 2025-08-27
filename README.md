@@ -14,7 +14,7 @@ Bienvenido a mi portafolio de proyectos. Aquí encontrarás ejemplos de mi traba
 
 ## 📂 Proyectos profesionales
 
-### Proyecto 1: [Vistas de la aplicación para Sumaq Alpaca](AppSheet/)
+### Proyecto 1: [Vistas de la aplicación para Sumaq Alpaca y Diagrama de base datos SQL](AppSheet/)
 
 
 ## 🤝 Proyectos Colaborativos
