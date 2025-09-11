@@ -1,26 +1,29 @@
-Professional Portfolio – Manuel Díaz
-About Me
 
-Industrial Engineer with solid experience implementing digital tools for data integration, business analytics, and process automation. I work with Low Code / No Code platforms like PowerApps, AppSheet, Power BI, and SQL. I’m learning Python and strengthening my skills in advanced digital business solutions.
+# 👋 Hi, I’m Manuel Díaz!
 
-Contact: LinkedIn – Manuel Díaz
+Welcome to my project portfolio. Here you’ll find examples of my work with AppSheet, PowerApps, SQL, and Power BI, focusing on Low Code tools and business analytics.
+---
 
-Professional Projects
-Project 1: Application Views & SQL Database Schema – Sumaq Alpaca Rugs
+## 🚀 About Me
 
-Created detailed application views for Sumaq Alpaca Rugs, enhancing usability and clarity for end users.
+- 🎓 Education: Industrial Engineering
+- 💼 Experience: Implementation of digital tools for data integration, business analytics, and process automation.
+- 🌱 Currently learning: Python, SQL, and advanced digital tools to create business solutions.
+- 📫 Contact: [LinkedIn Profile.](https://www.linkedin.com/in/manueldiazb/)
 
-Designed and implemented the SQL database schema to support integrated data flows.
+---
 
-Tools / Technologies: AppSheet, SQL
+## 📂 Professional Projects
 
-Collaborative Projects
-Business Case – EuroCars SA (Business Analytics Diploma Project)
+### Project 1: [Application Views for Sumaq Alpaca & SQL Database Diagram](AppSheet/)
 
-Role: Data modeling and SQL scripting to build the backend logic.
+## 🤝 Collaborative Projects
 
-Developed dashboards and reports in Power BI / Power Query to support business insights.
+### [Business Case – EuroCars SA](https://github.com/Grupo3Pucp/ProyectoGP3/tree/main)
 
-Technologies used: SQL, Power BI, Power Query
+- **Description:** Business Analytics Diploma project.
+- **My role:** Data model design and SQL scripting.
+- **Technologies:** SQL, Power BI, Power Query
 
-Personal Projects
+## 🛠️ Personal Projects
+(Coming soon – personal initiatives and experiments with Low Code, automation, and analytics tools.)
