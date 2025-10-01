@@ -19,7 +19,7 @@ Welcome to my project portfolio. Here you’ll find examples of my work with App
 
 ## 🤝 Collaborative Projects
 
-### [Business Case – EuroCars SA](https://github.com/Grupo3Pucp/ProyectoGP3/tree/main)
+### [Business Case – EuroCars SA](https://grupo3p.github.io/SKODA/)
 
 - **Description:** Business Analytics Diploma project.
 - **My role:** Data model design and SQL scripting.
