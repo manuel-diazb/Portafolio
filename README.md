@@ -20,9 +20,9 @@ Bienvenido a mi portafolio de proyectos. Aquí encontrarás ejemplos de mi traba
 ## 🤝 Proyectos Colaborativos
 
 ### [1. Caso de Negocio - EuroCars SA](https://grupo3p.github.io/SKODA/)
-- **Descripción:** Proyecto 1 Diplomado Business Analytics.
-- **Rol personal:** Creación del modelo de datos y su código en SQL.
-- **Tecnologías:** SQL, PowerBI y Power Query.
+- **Descripción:** Diplomado Business Analytics.
+- **Rol personal:** Creación del modelo de datos y código en SQL, setup de Azure, conexiíon al datawharehouse y desarollo de la aplicación en Power Apps.
+- **Tecnologías:** SQL, Azure, MS Fabric, Power Automate, Power Apps, PowerBI y Power Query.
 
 ## 🛠️ Proyectos personales
 
