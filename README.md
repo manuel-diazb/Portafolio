@@ -16,8 +16,7 @@ Bienvenido a mi portafolio de proyectos. Aquí encontrarás ejemplos de mi traba
 
 ### Proyecto 1: Implementando una plataforma de analítica de Datos en GCP
 
-
-- [Capa de datos SQL](/)
+- [Capa de datos SQL, creación de modelo de datos inicial y Servidor en Cloud SQL](Capa de datos/)
 - [Capa de aplicación usando Appsheet y envío automático de reportes](App/)
 - [Big Query como ETL y Querys programados](ETL & Automations/)
 
