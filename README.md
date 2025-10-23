@@ -2,6 +2,8 @@
 
 Bienvenido a mi portafolio de proyectos. Aquí encontrarás ejemplos de mi trabajo en Appsheets, PowerApps, SQL y PowerBi con un enfoque en herramientas Low Code y business analytics.
 
+🌍 [Read this portfolio in English](README_eng.md)
+
 ---
 
 ## 🚀 Sobre mí
