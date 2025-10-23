@@ -15,7 +15,11 @@ Welcome to my project portfolio. Here you’ll find examples of my work with App
 
 ## 📂 Professional Projects
 
-### Project 1: [Application Views for Sumaq Alpaca & SQL Database Diagram](AppSheet/)
+### Project 1: Implementing a Data Analytics Platform on GCP
+
+- [SQL data layer, initial data model creation, and Cloud SQL server setup](Capa_datos/)
+- [Application layer using AppSheet and automated report delivery](App/)
+- [BigQuery as ETL and scheduled queries](ETL_Automations/)
 
 ## 🤝 Collaborative Projects
 
