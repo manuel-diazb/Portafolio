@@ -14,7 +14,12 @@ Bienvenido a mi portafolio de proyectos. Aquí encontrarás ejemplos de mi traba
 
 ## 📂 Proyectos profesionales
 
-### Proyecto 1: [Vistas de la aplicación para Sumaq Alpaca y Diagrama de base datos SQL](AppSheet/)
+### Proyecto 1: Implementando una plataforma de analítica de Datos en GCP
+
+
+- [Capa de datos SQL](/)
+- [Capa de aplicación usando Appsheet y envío automático de reportes](App/)
+- [Big Query como ETL y Querys programados](ETL & Automations/)
 
 
 ## 🤝 Proyectos Colaborativos
