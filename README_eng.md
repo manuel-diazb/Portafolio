@@ -9,7 +9,7 @@ Welcome to my project portfolio. Here you’ll find examples of my work with App
 - 🎓 Education: Industrial Engineering
 - 💼 Experience: Implementation of digital tools for data integration, business analytics, and process automation.
 - 🌱 Currently learning: Python, SQL, and advanced digital tools to create business solutions.
-- 📫 Contact: [LinkedIn Profile.](https://www.linkedin.com/in/manueldiazb/)
+- 📫 Contact: [LinkedIn Profile.](https://www.linkedin.com/in/manueldiazb/?locale=en_US)
 
 ---
 
